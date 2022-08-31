@@ -1,0 +1,19 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "hadoop-3.3.4/share/hadoop/hdfs/hadoop-hdfs-3.3.4.jar",
+            "hadoop-3.3.4/share/hadoop/common/hadoop-common-3.3.4.jar",
+            "hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.4.jar",
+            "hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.4.jar",
+            "hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.4.jar",
+            "apache-log4j-2.18.0-bin/log4j-core-2.18.0.jar",
+            "apache-log4j-2.18.0-bin/log4j-api-2.18.0.jar",
+            "apache-log4j-2.18.0-bin/log4j-1.2-api-2.18.0.jar",
+            "commons-cli-1.5.0/commons-cli-1.5.0.jar"
+        ],
+        "exclude": [
+            "hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.3.4.jar"
+        ]
+    }
+}

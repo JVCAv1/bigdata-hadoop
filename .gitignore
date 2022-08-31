@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+hadoop-3.3.4
+commons-cli-1.5.0
+apache-log4j-2.18.0-bin
